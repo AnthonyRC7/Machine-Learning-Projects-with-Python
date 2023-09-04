@@ -18,6 +18,6 @@ In this comprehensive machine learning project, we embark on a journey through v
 
 **8. Softmax Regression, One-vs-All & One-vs-One for Multi-class Classification:** Our journey evolves to tackle the complexities of multi-class classification with techniques like Softmax Regression, One-vs-All, and One-vs-One. These methods enable us to handle scenarios with multiple classes or categories, opening doors to a wider range of applications.
 
-9. **K-Means Clustering:** Lastly, we explore K-Means Clustering, both on a randomly generated dataset and for customer segmentation using real customer data. This unsupervised learning technique helps us uncover hidden patterns and group similar data points together, aiding in meaningful data analysis and segmentation.
+**9. K-Means Clustering:** Lastly, we explore K-Means Clustering, both on a randomly generated dataset and for customer segmentation using real customer data. This unsupervised learning technique helps us uncover hidden patterns and group similar data points together, aiding in meaningful data analysis and segmentation.
 
 Throughout this journey, we harness the power of Python and machine learning to unlock insights, make data-driven decisions, and address diverse challenges across industries, from automotive and telecommunications to healthcare and finance. These stages collectively illustrate the versatility and impact of machine learning in today's data-driven world.
