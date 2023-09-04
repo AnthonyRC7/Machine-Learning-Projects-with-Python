@@ -1,4 +1,4 @@
-### Embark-on-a-journey-of-discovery-and-innovation-through-'Machine-Learning-Projects-with-Python,'-where-you'll-unlock-the-power-of-AI-to-solve-real-world-challenges.
+## Embark-on-a-journey-of-discovery-and-innovation-through-'Machine-Learning-Projects-with-Python,'-where-you'll-unlock-the-power-of-AI-to-solve-real-world-challenges.
 
 In this comprehensive machine learning project, we embark on a journey through various stages, each designed to harness the power of data and predictive modeling for solving diverse real-world challenges.
 
